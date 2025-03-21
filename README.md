@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirmal</h1>
+**<h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">A passionate worked software developement filed</h3>
 
 - 🔭 I’m working on front end **ecommerce**
@@ -15,4 +15,4 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>**
